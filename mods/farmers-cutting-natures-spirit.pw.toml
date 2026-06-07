@@ -1,0 +1,13 @@
+name = "Farmer's Cutting: Nature's Spirit"
+filename = "farmers-cutting-natures-spirit-1.21.1-1.0-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8a369594f332196883ff0efa26e3048bb5ab7aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6976641
+project-id = 1343472

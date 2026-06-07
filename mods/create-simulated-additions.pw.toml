@@ -1,0 +1,13 @@
+name = "Create Simulated Additions"
+filename = "create_simulated_additions-0.2.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "968d204afcab5f6f3c50dc5f4fc526f383085801"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8139211
+project-id = 1541699

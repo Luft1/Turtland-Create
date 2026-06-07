@@ -1,0 +1,13 @@
+name = "Create Aeronautics Thrusters and Things"
+filename = "createthrusters-bundled-0.1.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df8e1905e8760be17833b365afd4d506d282f3d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8096719
+project-id = 1537945

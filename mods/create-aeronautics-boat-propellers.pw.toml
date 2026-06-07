@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Boat Propellers"
+filename = "create aeronautics boatpropellers.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56f2cd0495505171acfa01fa8cd7bf34fb2e6fc6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8043010
+project-id = 1534550

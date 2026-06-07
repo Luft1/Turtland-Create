@@ -1,0 +1,13 @@
+name = "JEI Enhancements"
+filename = "jei_enhancements-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6effee489a48a577301e807fe41ff010877f0f0c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7437065
+project-id = 1424337
