@@ -1546,6 +1546,11 @@ hash = "d5282b7a148f4fda7d1399815ee270f89a03ce8dcac67c848c64d0d0a1691671"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "8e3c94d901d27042e160a6f618f1574c5e644defe10d6fb9ad486c9f2dbfce5d"
 metafile = true
@@ -2232,6 +2237,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "7b4034d9410e0b1aec27f383f289f93337ab1491db0aff5f771612bfa0e9b1b4"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "23ae6070690635c357040e1361922474ca25a1b0cc621bd9204070ec6c74acaf"
 metafile = true
 
 [[files]]
