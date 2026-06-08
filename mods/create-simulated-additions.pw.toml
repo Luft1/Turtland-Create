@@ -3,11 +3,11 @@ filename = "create_simulated_additions-0.2.2-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "968d204afcab5f6f3c50dc5f4fc526f383085801"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/rlv7S1aF/versions/3NFVuMkb/create_simulated_additions-0.2.2-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "708eb16f0f285c9f376edf88e647779476d84c439ac6d498ec09b9560a9a3f6c3e7ec2adda14dea99f2ed15584747bf3c86d2ca6d52b876f8716ddd1fe00c519"
 
 [update]
-[update.curseforge]
-file-id = 8139211
-project-id = 1541699
+[update.modrinth]
+mod-id = "rlv7S1aF"
+version = "3NFVuMkb"

@@ -3,11 +3,11 @@ filename = "create aeronautics boatpropellers.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "56f2cd0495505171acfa01fa8cd7bf34fb2e6fc6"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Rzsvsn8U/versions/iMJISpM8/create%20aeronautics%20boatpropellers.jar"
+hash-format = "sha512"
+hash = "041ca6a33c52695b6f93e42ece34b30ab3fcfd7045fb68dc1cce7eb440fc1ba8cd2209896dee16d8b1d6cad0c6bd55291010ace25bfd020d6988f8caf898b581"
 
 [update]
-[update.curseforge]
-file-id = 8043010
-project-id = 1534550
+[update.modrinth]
+mod-id = "Rzsvsn8U"
+version = "iMJISpM8"
