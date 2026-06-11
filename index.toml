@@ -1638,17 +1638,8 @@ hash = "ba633190e61bd7b32e412cb628a83fdd09b53b7ef8a036f1669687c719a99cc2"
 metafile = true
 
 [[files]]
-file = "mods/connector-2.0.0-beta.14+1.21.1-full.jar"
-hash = "a79817f1076e2e6499b0ab09c4e8c032d04b071341b66d036c3d96112804e51b"
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "9920b3cadb064073516f8d678e09c0d13a146bc3058725d036323852e5e18f15"
-metafile = true
-
-[[files]]
-file = "mods/cool-rain-reforged.pw.toml"
-hash = "5a46cbcb6b8aa31aeb63f7e32848000d8897bf36acb033632f9caefd34de3f28"
 metafile = true
 
 [[files]]
@@ -1941,6 +1932,10 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/create_aeronautics_transmission_linkage-0.2.3.jar"
+hash = "cccf35bf05967e8067251b6dd31bf29c91ba8b50aeda35de550f5dbbeb0f1a92"
+
+[[files]]
 file = "mods/create_cardan_shafts-0.1.6.jar"
 hash = "fd3ef915ec1308b392915708812b91625ce058394a54a2251d59b68b9717daf1"
 
@@ -2086,10 +2081,6 @@ hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar"
-hash = "68abf2864e957df26ac0cc3bd5352ee67880e052b47a80f22f28556c1179f18d"
-
-[[files]]
 file = "mods/fungi-delight.pw.toml"
 hash = "2e7caa61418b5bb7a56531a2ab66eb2851959fb1326dd75adb39aff4b363baee"
 metafile = true
@@ -2152,11 +2143,6 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "10c6e9563ce848472a6e817c05f5801da01a0d941bee2bf9ba7a0e848cf0a334"
-metafile = true
-
-[[files]]
-file = "mods/head-in-the-clouds.pw.toml"
-hash = "8b7322eb909a5acaa950d24a0aa57a368d45fecd8d9eb96537376767902d63bc"
 metafile = true
 
 [[files]]
@@ -2316,11 +2302,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
-metafile = true
-
-[[files]]
-file = "mods/particle-rain.pw.toml"
-hash = "2253cddf1e9a3778a893e47442378fdeea5b5604bc131b61acfcd25d1e690613"
 metafile = true
 
 [[files]]
