@@ -1563,6 +1563,11 @@ hash = "a60816d39f20954123aa60ceaa99f00816d44fe29c8a6b8d9509a0b0f3a8bd13"
 metafile = true
 
 [[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "762fcd212e5049e6e8dcece301c4f33a17d3fc9b00744301c52c4695d7015523"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "84fd12a30b0fecc1df5c03b6ec1bcbd6263211e65e17f24075a54773af6bfaff"
 metafile = true
