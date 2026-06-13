@@ -1,13 +1,13 @@
 name = "Create Simulated Additions"
-filename = "create_simulated_additions-0.2.2-neoforge-1.21.1.jar"
+filename = "create_simulated_additions-0.2.3-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rlv7S1aF/versions/3NFVuMkb/create_simulated_additions-0.2.2-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/rlv7S1aF/versions/tP7OCy3K/create_simulated_additions-0.2.3-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "708eb16f0f285c9f376edf88e647779476d84c439ac6d498ec09b9560a9a3f6c3e7ec2adda14dea99f2ed15584747bf3c86d2ca6d52b876f8716ddd1fe00c519"
+hash = "b67e62a4e6e5e090e4aa668195a9d7feb3f16f72ebd1199e47dbcd52929de58a2456b2ab779c7f23f220f6858f92611995e6a0ea0a29995665ea98cf01209bc7"
 
 [update]
 [update.modrinth]
 mod-id = "rlv7S1aF"
-version = "3NFVuMkb"
+version = "tP7OCy3K"
