@@ -1704,7 +1704,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cardan-shafts.pw.toml"
-hash = "346c6f0cefbb45ce6febc7060efb729493b0e9bab83fc237fab552b645a2b051"
+hash = "b6885c1deebb96c592047334c24851f35c9c3308eb2b58babd091fee6d06e8aa"
 metafile = true
 
 [[files]]

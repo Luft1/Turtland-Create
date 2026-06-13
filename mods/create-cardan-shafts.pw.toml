@@ -1,8 +1,13 @@
-name = "create-cardan-shafts"
-filename = "view"
+name = "Create Cardan Shafts"
+filename = "create_cardan_shafts-0.1.6.jar"
 side = "both"
 
 [download]
-url = "https://drive.google.com/file/d/1S0Ih5rq9ht73H8MVZ0VwVfMAX_yCPV3d/view?usp=drive_link"
-hash-format = "sha256"
-hash = "0dffe76bf698cc9888b0ae55755d8abb32424b07ec7dc1014a6fe8d1b3e80d19"
+hash-format = "sha1"
+hash = "bda138b18aa77f107ac7aac1c4b324afc092e3a3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8146378
+project-id = 1546625
