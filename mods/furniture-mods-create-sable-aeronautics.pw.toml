@@ -1,5 +1,5 @@
 name = "furniture mods - create/sable(aeronautics) compatibility"
-filename = "createfurnitureseats-4.8.10.jar"
+filename = "furniture-mod-compatibility-mixin-for-create-sable-aeronautics-4.8.10.jar"
 side = "both"
 
 [download]
