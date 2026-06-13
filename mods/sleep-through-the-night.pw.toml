@@ -1,6 +1,6 @@
 name = "Sleep Through The Night"
-filename = "sttn-1.1.1-neoforge-1.21.1.jar"
-side = "both"
+filename = "sleep-through-the-night-1.1.1-neoforge-1.21.1.jar"
+side = "client"
 
 [download]
 hash-format = "sha1"

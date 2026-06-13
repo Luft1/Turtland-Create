@@ -1,0 +1,8 @@
+name = "create-cardan-shafts"
+filename = "view"
+side = "both"
+
+[download]
+url = "https://drive.google.com/file/d/1S0Ih5rq9ht73H8MVZ0VwVfMAX_yCPV3d/view?usp=drive_link"
+hash-format = "sha256"
+hash = "0dffe76bf698cc9888b0ae55755d8abb32424b07ec7dc1014a6fe8d1b3e80d19"
