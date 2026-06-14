@@ -2038,6 +2038,11 @@ hash = "af8104f6a407333ecbefe9edd73ac873a77f59aed959913607ff808812de47d7"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "688cbfbaac97d3c9089bf2afa43bfd920ae8f4d210ad892b8ea52177bed67949"
+metafile = true
+
+[[files]]
 file = "mods/falling-leaves-forge.pw.toml"
 hash = "0df579e1b483cf7342b51b0367b69263ff37a36691f86c3f0bc5abcd6fbe31f8"
 metafile = true
@@ -2589,11 +2594,3 @@ hash = "9f408d4df6aac2a58a576c586b09baa48ba7c0ebf6d0869a42482700289555a7"
 [[files]]
 file = "shaderpacks/Bliss-Shader-main.zip"
 hash = "c590edfc6c77caae2447dc02e3044beff59c0fdeb80822ece272a08018c30495"
-
-[[files]]
-file = "shaderpacks/Bliss_v2.1.1_(Chocapic13_Shaders_edit) (1).zip"
-hash = "beed09189ddb105f33a827c1ff543255067b95e2aa0e24fb81a55b99384a8484"
-
-[[files]]
-file = "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
-hash = "f41db92acc585fe9ffe0cc124d6ecaea27cef9ded91129ebc2a8e60226947b2c"
