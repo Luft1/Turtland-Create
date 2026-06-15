@@ -11,3 +11,9 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 8037637
 project-id = 508933
+
+[option]
+optional = true
+description = "This allows for you to see distant terrain without the extra expense of fully rendering the chunks. Disable it if you’re low on RAM or CPU."
+default = true
+
