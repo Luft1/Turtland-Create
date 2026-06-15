@@ -1493,6 +1493,11 @@ file = "defaultconfigs/biolith/general.json"
 hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
 
 [[files]]
+file = "mods/actually-harvest.pw.toml"
+hash = "55e42a2bc361c0319990d362aa3f2a92fec0ca1dcbf567c94481aca169991496"
+metafile = true
+
+[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "d921cda68b79fed86082f116016a6b5513023fd2b815fea3e29fa9f28619506b"
 metafile = true
@@ -2570,11 +2575,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "ac5042951e2572ec150109f0a10c0e666ea3c2e6927614060e55fbb97b029d3a"
-metafile = true
-
-[[files]]
-file = "mods/xp-from-crops.pw.toml"
-hash = "d848d7ffc8e3d3b190a504f19f0026a24766b1ac9235a9ea338506c3c41ab410"
 metafile = true
 
 [[files]]
