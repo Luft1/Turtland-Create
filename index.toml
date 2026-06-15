@@ -2258,6 +2258,11 @@ hash = "85b0bb55b80d196b879fe6755cd7cc509f6ecd5706bb25acd43826da5335dd57"
 metafile = true
 
 [[files]]
+file = "mods/mining-speed-tooltips.pw.toml"
+hash = "62c114c1153099ee8d04653c5beed7444abc01ae9c4e40c3472fabe58928cc9b"
+metafile = true
+
+[[files]]
 file = "mods/mod-menu-neoforge-edition.pw.toml"
 hash = "092e47346a288a93eb69d50b235eb4b5a1ea449599045b8abd037388943bca0a"
 metafile = true
@@ -2525,6 +2530,11 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "acaf6d5f5cc298e92fd1a9598330661aefdb6721447e23300b2adc54433be57e"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
 
 [[files]]
