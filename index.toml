@@ -1493,6 +1493,11 @@ file = "defaultconfigs/biolith/general.json"
 hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
 
 [[files]]
+file = "mods/actually-harvest.pw.toml"
+hash = "55e42a2bc361c0319990d362aa3f2a92fec0ca1dcbf567c94481aca169991496"
+metafile = true
+
+[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "d921cda68b79fed86082f116016a6b5513023fd2b815fea3e29fa9f28619506b"
 metafile = true
@@ -1620,6 +1625,11 @@ metafile = true
 [[files]]
 file = "mods/connected-glass.pw.toml"
 hash = "ba633190e61bd7b32e412cb628a83fdd09b53b7ef8a036f1669687c719a99cc2"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
@@ -1979,7 +1989,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "155881c68fc0a7378760fa11ed7fa9637846b7a26db923fb998fc1917f270cc7"
+hash = "0738dfe9c76dcc6ef1c392c499b078e734ece55bd1e8ab617c1e9c0eb2c07909"
 metafile = true
 
 [[files]]
@@ -2253,6 +2263,11 @@ hash = "85b0bb55b80d196b879fe6755cd7cc509f6ecd5706bb25acd43826da5335dd57"
 metafile = true
 
 [[files]]
+file = "mods/mining-speed-tooltips.pw.toml"
+hash = "62c114c1153099ee8d04653c5beed7444abc01ae9c4e40c3472fabe58928cc9b"
+metafile = true
+
+[[files]]
 file = "mods/mod-menu-neoforge-edition.pw.toml"
 hash = "092e47346a288a93eb69d50b235eb4b5a1ea449599045b8abd037388943bca0a"
 metafile = true
@@ -2373,6 +2388,11 @@ hash = "6f636ac7d482eba6fa2c4c66f4531a2877e8a353a04413f7bb9caf3f9fa318d4"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "2461c9d7e1d7dd6e1406a8b51b10fd17bd72f3cc00350b5d09a04888f3c9271c"
 metafile = true
@@ -2380,11 +2400,6 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "6b3c65eef473d729266b7467ad8354afb40cdd03889205e35467cf323080fe77"
-metafile = true
-
-[[files]]
-file = "mods/sleep-through-the-night.pw.toml"
-hash = "6716f4371eb8774733185755a786c220d08201a041fbbfd7326e81fddfd0c613"
 metafile = true
 
 [[files]]
@@ -2528,6 +2543,11 @@ hash = "acaf6d5f5cc298e92fd1a9598330661aefdb6721447e23300b2adc54433be57e"
 metafile = true
 
 [[files]]
+file = "mods/txnilib.pw.toml"
+hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
+metafile = true
+
+[[files]]
 file = "mods/vista-aeronautics-fix.pw.toml"
 hash = "e6984ff406125d06bd2b27acbc7c9ed3f524e2110649963461fa5a18ea39ac96"
 metafile = true
@@ -2559,12 +2579,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a82cf99f5601ff67e697a627b5d35238d40dc869e1fd0a9624a7150126f5aeb8"
-metafile = true
-
-[[files]]
-file = "mods/xp-from-crops.pw.toml"
-hash = "d848d7ffc8e3d3b190a504f19f0026a24766b1ac9235a9ea338506c3c41ab410"
+hash = "ac5042951e2572ec150109f0a10c0e666ea3c2e6927614060e55fbb97b029d3a"
 metafile = true
 
 [[files]]
