@@ -1628,6 +1628,11 @@ hash = "ba633190e61bd7b32e412cb628a83fdd09b53b7ef8a036f1669687c719a99cc2"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
 metafile = true
@@ -2385,6 +2390,11 @@ metafile = true
 [[files]]
 file = "mods/seamless.pw.toml"
 hash = "6f636ac7d482eba6fa2c4c66f4531a2877e8a353a04413f7bb9caf3f9fa318d4"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
