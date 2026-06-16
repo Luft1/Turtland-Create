@@ -2213,6 +2213,11 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
 metafile = true
@@ -2333,6 +2338,11 @@ hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
+metafile = true
+
+[[files]]
 file = "mods/particular-reforged.pw.toml"
 hash = "feb003ee68e06eaaeed7c45554556e726105d8ba9e364452e7429d2739588da7"
 metafile = true
@@ -2400,6 +2410,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "f55cb6a9b2129b9921c58489e660e451aea766c4cd3b8af75c58a7caae272d94"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "ba0fbc01b797b664021580151aa626f3816bdf4420136cc424761df4d05c9d55"
 metafile = true
 
 [[files]]
