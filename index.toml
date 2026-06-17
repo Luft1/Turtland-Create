@@ -2423,6 +2423,11 @@ hash = "6b3c65eef473d729266b7467ad8354afb40cdd03889205e35467cf323080fe77"
 metafile = true
 
 [[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "bb3916bd466676b43fa6e5298a964c445191fa9178b956bf1692cc08249069a1"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "924590dd9b32e32f209e4e1986347b90355c07763e9a27dc79caa9cb12efeab5"
 metafile = true
@@ -2490,6 +2495,11 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "36bc1bb632d1203c91d99298214b08b6babc7da301fff00fded2a1f705592f17"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "2c21fed3023cff916794b1a9350d6ac15939fe08d01041abb3b6d63e4bf3c53d"
 metafile = true
 
 [[files]]
