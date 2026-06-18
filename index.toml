@@ -549,10 +549,6 @@ file = "config/connectiblechains.toml"
 hash = "c8ab2a7e6f717a82f1d8799fee6e656878acf1ce5f47b7b66cfb2db6a377b4ed"
 
 [[files]]
-file = "config/connector.json"
-hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
-
-[[files]]
 file = "config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
@@ -1491,6 +1487,10 @@ hash = "ea1fa91de03d8f6f3c36b0c6cef77375a8365790ac0acb63fd558643d54d677f"
 [[files]]
 file = "defaultconfigs/biolith/general.json"
 hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
+
+[[files]]
+file = "mod-list.txt"
+hash = "4798d6eedd93093750d90c3ae3b67b30360cf34c8672860352d0b8622b31d961"
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
@@ -2599,12 +2599,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "1d3065f0d709c7cfdeb5d83efacd47597d6e687c622ac596d1f0bde103fe1d87"
+hash = "d6e007f5dfe86aaf2451e403d40211ddd2ac526ceab49a3929bded51b5658e0a"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ac5042951e2572ec150109f0a10c0e666ea3c2e6927614060e55fbb97b029d3a"
+hash = "c129b31143323e9a97c616a8f67fcd3e9db422fa15ec9b50476131a226c3caf2"
 metafile = true
 
 [[files]]
