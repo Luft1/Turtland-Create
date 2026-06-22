@@ -1903,11 +1903,6 @@ hash = "87a280b3f1851afa3300fa8f238fad2d1b4516e48886df1dcd19ff3d595fe616"
 metafile = true
 
 [[files]]
-file = "mods/create-stellaris.pw.toml"
-hash = "c0c526763e81877edb468f152ddffd8b152b96f862c98932e21efb953c16db94"
-metafile = true
-
-[[files]]
 file = "mods/create-structures-arise.pw.toml"
 hash = "bd48df02197c531fc58f203c2b6616f8327f5c18208414060e24b12e93c8afe0"
 metafile = true
@@ -1966,6 +1961,10 @@ metafile = true
 file = "mods/createnuclear.pw.toml"
 hash = "67ab07725f633de3c427914656c6ada7b0cd094cfee4ef34a7f8b4b0684bcf14"
 metafile = true
+
+[[files]]
+file = "mods/createstellaris-1.5.0.jar"
+hash = "84bde6ed6a57255108be20550d4b49d2dbc266d941b9a96c9f9c9606ad4612ba"
 
 [[files]]
 file = "mods/creativecore.pw.toml"
