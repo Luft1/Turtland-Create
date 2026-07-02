@@ -2372,6 +2372,11 @@ hash = "89109bcf6cade1e41185ebbb07b66c7cede5418d81beb225be7778e3e33f768f"
 metafile = true
 
 [[files]]
+file = "mods/reconstructed-wands.pw.toml"
+hash = "59226821b9e7d45259019ee822a4480c0edd3b3c7f067b17767a035ebb71529a"
+metafile = true
+
+[[files]]
 file = "mods/ritchies-projectile-library.pw.toml"
 hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
 metafile = true
