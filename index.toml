@@ -1648,6 +1648,10 @@ hash = "5ab300c745f2e22fb504c567b9f6273d25fda51e4fee9b13c71a8febb0237054"
 metafile = true
 
 [[files]]
+file = "mods/create-1.21.1-6.0.10[null-axis-fix].jar"
+hash = "408a72d6bec812ebc73c751be9e548ee233cbd846f1f7a05adf0cca9fda27aa6"
+
+[[files]]
 file = "mods/create-aeronautics-boat-propellers.pw.toml"
 hash = "32aadd0f7806ba4adf8f88f5494cf2b564b603fee8ca50a1d9dfbc5e48c9c97a"
 metafile = true
@@ -1940,11 +1944,6 @@ metafile = true
 [[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "b8761149eda05aa09fa90b3a8e0cf797faba43c08e42557cafcd55baa2c20cb3"
-metafile = true
-
-[[files]]
-file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
