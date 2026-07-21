@@ -1623,6 +1623,11 @@ hash = "f133ad50b9e2dad1c7a6b49c1e9d2220f783fde842f9227877fba6c276a01baa"
 metafile = true
 
 [[files]]
+file = "mods/configurable.pw.toml"
+hash = "b360c0438bf09e6cec799babe7db640e64e54c778f9da65e10996e24c3f8e065"
+metafile = true
+
+[[files]]
 file = "mods/connected-glass.pw.toml"
 hash = "ba633190e61bd7b32e412cb628a83fdd09b53b7ef8a036f1669687c719a99cc2"
 metafile = true
@@ -2328,6 +2333,11 @@ metafile = true
 [[files]]
 file = "mods/neo-language-reload.pw.toml"
 hash = "a0944618e248813a3d624faec2aa631f9e6f8b207fa92e49cbdb565e44704762"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "79c6106de5e745f13fcc242a6f21509a63ab84ca59fdedd97a0ca207a893c04d"
 metafile = true
 
 [[files]]
